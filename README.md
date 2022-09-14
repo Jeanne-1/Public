@@ -3,4 +3,4 @@
 **and something in bold**
 in ~~French~~ English :smile:
 [x] done
-[] not done
+[ ] not done
