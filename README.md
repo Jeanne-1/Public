@@ -1,8 +1,6 @@
 #test
-*italic with * *
-**bold with ** **
-~~crossed with ~~ ~~
-emojis with : :smile:
-list can be with *, 1. or [x] for a task list
+*let's write something in italic*
+**and something in bold**
+in ~~French~~ English :smile:
 [x] done
 [] not done
